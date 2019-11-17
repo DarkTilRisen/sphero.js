@@ -6,7 +6,7 @@ var Sphero = require("./lib/sphero");
  * Creates a new Sphero instance with the provided options.
  *
  * @param {String} address port/UUID/address of the connected Sphero
- * @param {Object} [opts] options for sphero setup
+ * @param {{legacy: boolean}} [opts] options for sphero setup
  * @param {Object} [opts.adaptor] if provided, a custom adaptor used for Sphero
  * communication
  * @param {Number} [opts.sop2=0xFD] SOP2 value to be passed to commands

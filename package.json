@@ -37,6 +37,10 @@
   },
   "dependencies": {
     "bluebird": "^3.3.4",
-    "browser-serialport": "^2.0.2"
+    "bluetooth-serial-port": "^2.2.6",
+    "browser-serialport": "^2.0.2",
+    "noble": "^1.9.1",
+    "node-bluetooth": "^1.2.6",
+    "serialport": "^8.0.5"
   }
 }
