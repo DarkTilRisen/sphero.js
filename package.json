@@ -41,6 +41,7 @@
     "browser-serialport": "^2.0.2",
     "noble": "^1.9.1",
     "node-bluetooth": "^1.2.6",
-    "serialport": "^8.0.6"
+    "serialport": "^8.0.6",
+    "node-ble": "^1.0.0"
   }
 }
